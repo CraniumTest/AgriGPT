@@ -1,0 +1,8 @@
+pandas
+numpy
+openai
+tensorflow
+torch
+mqtt
+plotly
+matplotlib
